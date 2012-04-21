@@ -25,3 +25,9 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+#DS_Store
+*.DS_Store
+
+#Secrets file
+secrets.txt
